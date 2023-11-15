@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Phone",
+      "catagory": "electronics",
+      "img": "https://ipfs.io/ipfs/QmQALV996TN3intxEePFwFEPDHRyfcFwxQyytx9CGfVjmE?filename=iphone.jpg",
+      "price": "1",
+      "rating": 5,
+      "stock": 2000
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "catagory": "electronics",
+      "img": "https://ipfs.io/ipfs/QmXUxhEwniN9Gdo6s4WZJ6oY2BaGbjEVnVapH9uXFXGSZS?filename=laptop.png",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 100
+    },
+    {
+      "id": 3,
+      "name": "Headphone",
+      "catagory": "electronics",
+      "img": "https://ipfs.io/ipfs/QmP5tA8TLex4GjsTtvxb5q2JeCD9oExeufrhbk4JJq89Xj?filename=headphone.jpg",
+      "price": "2",
+      "rating": 5,
+      "stock": 1000
+    },
+    {
+      "id": 4,
+      "name": "Sunglasses",
+      "catagory": "clothing",
+      "img": "https://ipfs.io/ipfs/QmSHJRYbfGsYX17uJKhUg4AVFZjDWdrYEBX6jiyzEpe4Mv?filename=sunglasses.jpg",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 256
+    },
+    {
+      "id": 5,
+      "name": "Shirts",
+      "catagory": "clothing",
+      "img": "https://ipfs.io/ipfs/QmWaXwcdvSYD3bVFoGBLXJ4ZvJpeEG2ViQboBrwvGNYTG7?filename=shirts.jpg",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 300
+    },
+    {
+      "id": 6,
+      "name": "Watch",
+      "catagory": "clothing",
+      "img": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/watch.jpg",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 1000
+    },
+    {
+      "id": 7,
+      "name": "Doll",
+      "catagory": "toys",
+      "img": "https://ipfs.io/ipfs/QmNsCXKvyAWAvu6jUPKUwi7DUhWXBYgJ6GYeZ3Kthfp6c3?filename=doll.jpg",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 150
+    },
+    {
+      "id": 8,
+      "name": "Car",
+      "catagory": "toys",
+      "img": "https://ipfs.io/ipfs/QmY4qPCPLs88m2PzKU7BHCSYGizuiVyWRSebdTdAtkg4ub?filename=car.jpg",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 500
+    },
+    {
+      "id": 9,
+      "name": "Camera",
+      "catagory": "electronics",
+      "img": "https://ipfs.io/ipfs/QmQg8TNSRy8TefZJ4Bf6qpi9XHDuuCcXbTkWsNvjgoG4tp?filename=camera.jpeg",
+      "price": "1",
+      "rating": 4,
+      "stock": 300
+    }
+  ]
+}
